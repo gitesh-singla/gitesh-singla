@@ -1,8 +1,6 @@
 # Gitesh Singla
 
-## 👋 Hello, There!
-
-Software Developer
+# 👋 Hello, There!
 
 ### 🛠️ Skills
 
