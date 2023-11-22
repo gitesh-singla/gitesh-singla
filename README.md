@@ -1,6 +1,6 @@
 # Gitesh Singla
 
-# 👋 Hello, There!
+### 👋 Hello, There!
 
 ### 🛠️ Skills
 
